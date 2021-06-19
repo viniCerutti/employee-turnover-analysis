@@ -8,6 +8,7 @@ Há uma grande importância em analisar e predizer quais colaboradores podem sai
 Este projeto é um exercício do [Curso de People Analytics](https://www.udemy.com/course/peopleanalytics101/) no qual busca entender e predizer o motivo de um colaborador ser desligado da empresa.
 
 Percebe-se através da análise que os principais fatores que impactam na saida do colaborador foram:
+* Satifação do gestor era baixa;
 * Que tiveram poucas mudanças de salário;
 * Não realizaram tantos cursos;
 * Moravam longe da empresa.
